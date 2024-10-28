@@ -1,0 +1,282 @@
+[
+  {
+    "features": [
+      "Private and public (group) chats",
+      "Location based post filtering by Nationality, State or Region",
+      "Connect and make friends"
+    ],
+    "mdis": [
+      "language-html5",
+      "language-css3",
+      "language-javascript",
+      "bootstrap",
+      "jquery",
+      "language-php"
+    ],
+    "note": "AroundMe, a web-based talk room application that allows users to connect and share thoughts. The platform features private chats, group discussions, public and group posts, and friend functionalities. I developed AroundMe using Core PHP and MySQL, as well as Ajax for an improved user experience. This project required me to utilize my skills in web development and database management to create a dynamic and interactive platform for users to communicate and connect.",
+    "show": true,
+    "title": "AroundMe"
+  },
+  {
+    "features": [
+      "Stock management",
+      "Private and public negotiations with auction sales",
+      "Private Chats"
+    ],
+    "mdis": [
+      "language-html5",
+      "language-css3",
+      "language-javascript",
+      "language-php",
+      "bootstrap",
+      "jquery"
+    ],
+    "note": "Sales House, a web-based e-commerce platform that allows users to buy and sell their personal belongings on a small or large scale. Some of the key features of Sales House include a public negotiation platform, price bidding, and interpersonal communication between buyers and sellers. I utilized my skills in web development and e-commerce to create a user-friendly and effective platform for buying and selling personal items.",
+    "show": true,
+    "title": "Sales House"
+  },
+  {
+    "features": [
+      "Automated Self Database Management",
+      "Web Scraping using Python",
+      "Multi - Level Authentication. Seekers and Employers",
+      "Utilized 3rd Party payment gateways",
+      "Administrative Management"
+    ],
+    "mdis": [
+      "language-html5",
+      "language-css3",
+      "language-javascript",
+      "vuejs",
+      "jquery",
+      "language-php",
+      "language-python"
+    ],
+    "note": "JobLinkup is a job agency application that connects job seekers with employers by scraping jobs daily from verified sources and helping users map and find their desired positions. This platform was designed to be user-friendly and effective in connecting job seekers and employers.",
+    "show": true,
+    "title": "Job LinkUp"
+  },
+  {
+    "features": [
+      "Dedicated User Profile with sharable and customizable Profile Link for easy sharing",
+      "Sharing of articles and posts to Facebook, Whatsapp, and other social media platforms",
+      "Multi-level commenting system",
+      "Post voting to improve relevancy"
+    ],
+    "mdis": [
+      "language-html5",
+      "language-css3",
+      "language-javascript",
+      "vuejs",
+      "language-php"
+    ],
+    "note": "A multi-user blog platform that allows writers to connect and share their articles, blogs, and write-ups with the public. This platform was designed to be user-friendly and effective in connecting writers and providing a platform for them to share their work with a wider audience.",
+    "show": true,
+    "title": "Talkspiration"
+  },
+  {
+    "features": [
+      "Private chatting",
+      "Public post sharing",
+      "Friend functions",
+      "Ajax based instant messaging"
+    ],
+    "mdis": [
+      "language-html5",
+      "language-css3",
+      "language-javascript",
+      "vuejs",
+      "language-php",
+      "laravel",
+      "api"
+    ],
+    "note": "Closer than you know was a project designed to connect users by grouping them by region and allowing them to share public posts and engage in private chats with people from close to them. The goal of this project was to create a platform for users to connect with others in their local area and share content with a community of people nearby.",
+    "show": true,
+    "title": "Closer than you know - CTYN"
+  },
+  {
+    "features": [
+      "Accounting Calculations",
+      "Multiple Account Types and Account Categories",
+      "Chart Plotting using Canvas.JS API to map income to expenses"
+    ],
+    "mdis": [
+      "language-html5",
+      "language-css3",
+      "language-javascript",
+      "vuejs",
+      "language-php",
+      "laravel",
+      "api",
+      "chart-arc"
+    ],
+    "note": "Expense Manager is a financial software that helps users track their income and expenses by recording them in multiple accounts. This tool allows users to easily keep track of their financial state and make informed decisions about their spending and saving.",
+    "show": true,
+    "title": "ExpenMan"
+  },
+  {
+    "features": [
+      "Cloudinary media management",
+      "User wallet system",
+      "Paystack for payment management",
+      "Video streaming, preview (for unpurchased videos) and Uploads, with commenting"
+    ],
+    "mdis": [
+      "language-html5",
+      "language-css3",
+      "language-javascript",
+      "vuejs",
+      "language-php",
+      "laravel",
+      "api"
+    ],
+    "note": "Video On-Demand, a web platform that allows users to purchase and access exclusive video content. The platform enables users to stream videos online or download them for offline viewing, ensuring that the content is only accessible to those who have made a purchase. This project required me to utilize my skills in backend engineering and web development to create a seamless and secure platform for delivering video content.",
+    "show": true,
+    "title": "ViDemand"
+  },
+  {
+    "features": [
+      "Staff Management",
+      "Stock Management",
+      "Admin Console",
+      "Task schedule management"
+    ],
+    "mdis": [
+      "language-html5",
+      "language-css3",
+      "language-javascript",
+      "language-php"
+    ],
+    "note": "Eytan is a hospital staff management system developed for tracking patients' hospital records and managing staff tasks. Please note that information about this project is protected by a non-disclosure agreement (NDA) from my previous employer.",
+    "show": true,
+    "title": "Eytan"
+  },
+  {
+    "features": [
+      "Small sized hub postings with single level commenting",
+      "Developer Blog Spot with multi-level comments",
+      "Interpersonal chat systems",
+      "Job posting and applications with attachments",
+      "Developer News Retrieval from approved news sources using web scraping"
+    ],
+    "mdis": [
+      "language-html5",
+      "language-css3",
+      "language-javascript",
+      "vuejs",
+      "nuxt",
+      "vuetify",
+      "language-php",
+      "laravel",
+      "nodejs",
+      "api"
+    ],
+    "note": "DevComm is a community for developers to connect and features an hub, news, article list, job postings, and private chatting. I built DevComm using the Laravel framework.",
+    "show": true,
+    "title": "DevComm"
+  },
+  {
+    "features": [
+      "PHP API with full Automated Test",
+      "Multi Access Level, Teachers, Senior Students, and Senior Students "
+    ],
+    "mdis": ["language-php", "api"],
+    "note": "BookLib is a book library management system API that allows schools to keep track of their books and students' book borrowing activity. The system helps schools manage their book records and track which books are in students' possession.",
+    "show": true,
+    "title": "BookLib"
+  },
+  {
+    "features": [
+      "Accounting calculations",
+      "Near-live updates of market price"
+    ],
+    "mdis": [
+      "language-html5",
+      "language-css3",
+      "language-javascript",
+      "language-php"
+    ],
+    "note": "Index Standards is an accounting firm index tracking application that helps plan market forecasts and track shares. Please note that information about this project is protected by a non-disclosure agreement (NDA) from my previous employer.",
+    "show": true,
+    "title": "Indexing Standards"
+  },
+  {
+    "features": [
+      "Stock management",
+      "Public vendor profiles",
+      "Integrity rating on vendors and products",
+      "Order management",
+      "User wallets and payment management"
+    ],
+    "mdis": [
+      "language-html5",
+      "language-css3",
+      "language-javascript",
+      "vuejs",
+      "nuxt",
+      "vuetify",
+      "laravel",
+      "nodejs",
+      "api"
+    ],
+    "note": "A multi-vendor e-commerce application that allows vendors and customers to interact and make transactions. I was responsible for the development and maintenance of this platform, utilizing my skills in backend engineering and web development. Please note that information about this project is protected by a non-disclosure agreement (NDA).",
+    "show": true,
+    "title": "Podici"
+  },
+  {
+    "features": ["API consumption", "Telegram Bot", "Interactive UIX"],
+    "mdis": [],
+    "note": "iJokes is a frontend API bridge application and Telegram bot that fetches and displays jokes from a 3rd party open-source API for users.",
+    "show": true,
+    "title": "iJokes"
+  },
+  {
+    "features": [
+      "Payment management",
+      "User wallets",
+      "Fund transfer",
+      "Payment requests"
+    ],
+    "mdis": [
+      "language-html5",
+      "language-css3",
+      "language-javascript",
+      "vuejs",
+      "nuxt",
+      "vuetify",
+      "laravel",
+      "nodejs",
+      "api"
+    ],
+    "note": "A fintech application that enables unrestricted and decentralized fund payments. I was responsible for the development and maintenance of this platform, utilizing my skills in backend engineering and web development. Please note that information about this project is protected by a non-disclosure agreement (NDA).",
+    "show": true,
+    "title": "PayLighter"
+  },
+  {
+    "features": [
+      "Opensource API",
+      "Programmatic Webpage to PDF functionality",
+      "Javascript SDK for easy integration"
+    ],
+    "mdis": [
+      "language-html5",
+      "language-css3",
+      "language-javascript",
+      "vuejs",
+      "nuxt",
+      "vuetify",
+      "nodejs",
+      "api"
+    ],
+    "note": "Pidifier is a free SAAS which provides developers with an API for freely converting web pages to PDFs. It was developed mainly using NodeJS on the server and NuxtJS for the SAAS about page",
+    "show": true,
+    "title": "Pidifier"
+  },
+  {
+    "features": [],
+    "mdis": [],
+    "note": "",
+    "show": false,
+    "title": ""
+  }
+]
