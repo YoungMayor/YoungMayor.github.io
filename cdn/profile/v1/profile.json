@@ -23,95 +23,7 @@
     }
   ],
   "history": {
-    "education": [
-      {
-        "from": 2004,
-        "institution": "Dodis International Academy, Warri",
-        "location": "Delta State, Nigeria",
-        "short_title": "FSLC",
-        "show": true,
-        "title": "First School Leaving Certificate",
-        "to": 2009
-      },
-      {
-        "from": 2009,
-        "institution": "Challenge Academy, Udu",
-        "location": "Delta State, Nigeria",
-        "short_title": "JSCE",
-        "show": true,
-        "title": "Junior School Leaving Certificate",
-        "to": 2012
-      },
-      {
-        "from": 2012,
-        "institution": "Challenge Academy, Udu",
-        "location": "Delta State, Nigeria",
-        "short_title": "SSCE",
-        "show": true,
-        "title": "Senior School Leaving Certificate",
-        "to": 2015
-      },
-      {
-        "from": 2016,
-        "institution": "Mayor Tech Solutions, Warri",
-        "list": [
-          "Computer Appreciation and Microsoft Office Packages",
-          "Graphic Design - Corel Draw",
-          "Computer Hardware Repairs"
-        ],
-        "location": "Delta State, Nigeria",
-        "short_title": "Computer Appreciation",
-        "show": true,
-        "title": "Computer Appreciation Certificate",
-        "to": 2017
-      },
-      {
-        "from": 2017,
-        "institution": "Sololearn Inc.",
-        "list": [
-          "Introduction to programming in C++: Building command line apps and terminal games using C++ as a means of skill development",
-          "General problem solving using Python: Created algorithms to render help in fields spanning across Science and Day to Day living",
-          "HTML5, CSS3 and JavaScript: Using HTML to build static and beautified web pages",
-          "Backend Web Development with PHP and MySQL: Employed the use of PHP and MySQL in cooperation with previously attained Skills to develop Dynamic Web Pages"
-        ],
-        "location": "Remote",
-        "short_title": "SE",
-        "show": true,
-        "title": "Software Engineering Basics",
-        "to": 2017
-      },
-      {
-        "from": 2018,
-        "institution": "Flexpert iSystems (Flyte) Academy",
-        "list": [
-          "jQuery, XML, JSON, Ajax: Made use of Ajax Technologies to develop Web Solutions as a Backend Web Developer working collaboratively with a Co-Staff handling Frontend and UIX Designs",
-          "MySQL and Database Administration: I functioned as the Database Administrator",
-          "Server Administrator: I was put in charge of the server on which our projects where hosted, and also the general server on which the firm projects were hosted"
-        ],
-        "location": "Benin, Edo State, Nigeria",
-        "short_title": "Adv. BE Engr.",
-        "show": true,
-        "title": "Advanced Backend Web Engineering",
-        "to": 2018
-      },
-      {
-        "from": 2019,
-        "institution": "Mayor Tech Solutions, Warri",
-        "list": [
-          "Bootstrap: Advanced to building beautiful web pages/sites using the Bootstrap",
-          "PHP 7: Learnt effectively on the New APIs and functionalities offered by PHP 7 in building more secure and well optimized complex web programs",
-          "Wordpress: Familiarized myself with building E-Commerce, Landing Page Apps and Blog Webapps using Wordpress for speed and efficiency",
-          "VueJS: Made effective and proficient use of VueJS, a Javascript Framework, in building well optimized web applications at the front end",
-          "Modern Web Design: Adopted the use of modern technologies for building robust and highly scalable and slick web applications using NuxtJS, Vuetify, VueSax"
-        ],
-        "location": "Delta State, Nigeria",
-        "short_title": "Adv. Web Engr.",
-        "show": true,
-        "title": "Advanced Web Engineering",
-        "to": 2019
-      }
-    ],
-    "job": [
+    "career": [
       {
         "duties": [
           "As the assistant manager, I effectively managed the computer academy and provided viable suggestions and policies that were aimed to keep the Academy from attaining a state of bankruptcy which may arise from lack of students and clients for reasons of poor management. So to help me achieve my targeted commitments to the firm at large, I oversaw the publicity of the academy, making sure our advertorials were effective and well under the recommended maximum budget.",
@@ -213,6 +125,94 @@
         "show": true,
         "title": "Senior Backend Developer",
         "to": "till date"
+      }
+    ],
+    "education": [
+      {
+        "from": 2004,
+        "institution": "Dodis International Academy, Warri",
+        "location": "Delta State, Nigeria",
+        "short_title": "FSLC",
+        "show": true,
+        "title": "First School Leaving Certificate",
+        "to": 2009
+      },
+      {
+        "from": 2009,
+        "institution": "Challenge Academy, Udu",
+        "location": "Delta State, Nigeria",
+        "short_title": "JSCE",
+        "show": true,
+        "title": "Junior School Leaving Certificate",
+        "to": 2012
+      },
+      {
+        "from": 2012,
+        "institution": "Challenge Academy, Udu",
+        "location": "Delta State, Nigeria",
+        "short_title": "SSCE",
+        "show": true,
+        "title": "Senior School Leaving Certificate",
+        "to": 2015
+      },
+      {
+        "from": 2016,
+        "institution": "Mayor Tech Solutions, Warri",
+        "list": [
+          "Computer Appreciation and Microsoft Office Packages",
+          "Graphic Design - Corel Draw",
+          "Computer Hardware Repairs"
+        ],
+        "location": "Delta State, Nigeria",
+        "short_title": "Computer Appreciation",
+        "show": true,
+        "title": "Computer Appreciation Certificate",
+        "to": 2017
+      },
+      {
+        "from": 2017,
+        "institution": "Sololearn Inc.",
+        "list": [
+          "Introduction to programming in C++: Building command line apps and terminal games using C++ as a means of skill development",
+          "General problem solving using Python: Created algorithms to render help in fields spanning across Science and Day to Day living",
+          "HTML5, CSS3 and JavaScript: Using HTML to build static and beautified web pages",
+          "Backend Web Development with PHP and MySQL: Employed the use of PHP and MySQL in cooperation with previously attained Skills to develop Dynamic Web Pages"
+        ],
+        "location": "Remote",
+        "short_title": "SE",
+        "show": true,
+        "title": "Software Engineering Basics",
+        "to": 2017
+      },
+      {
+        "from": 2018,
+        "institution": "Flexpert iSystems (Flyte) Academy",
+        "list": [
+          "jQuery, XML, JSON, Ajax: Made use of Ajax Technologies to develop Web Solutions as a Backend Web Developer working collaboratively with a Co-Staff handling Frontend and UIX Designs",
+          "MySQL and Database Administration: I functioned as the Database Administrator",
+          "Server Administrator: I was put in charge of the server on which our projects where hosted, and also the general server on which the firm projects were hosted"
+        ],
+        "location": "Benin, Edo State, Nigeria",
+        "short_title": "Adv. BE Engr.",
+        "show": true,
+        "title": "Advanced Backend Web Engineering",
+        "to": 2018
+      },
+      {
+        "from": 2019,
+        "institution": "Mayor Tech Solutions, Warri",
+        "list": [
+          "Bootstrap: Advanced to building beautiful web pages/sites using the Bootstrap",
+          "PHP 7: Learnt effectively on the New APIs and functionalities offered by PHP 7 in building more secure and well optimized complex web programs",
+          "Wordpress: Familiarized myself with building E-Commerce, Landing Page Apps and Blog Webapps using Wordpress for speed and efficiency",
+          "VueJS: Made effective and proficient use of VueJS, a Javascript Framework, in building well optimized web applications at the front end",
+          "Modern Web Design: Adopted the use of modern technologies for building robust and highly scalable and slick web applications using NuxtJS, Vuetify, VueSax"
+        ],
+        "location": "Delta State, Nigeria",
+        "short_title": "Adv. Web Engr.",
+        "show": true,
+        "title": "Advanced Web Engineering",
+        "to": 2019
       }
     ]
   },
