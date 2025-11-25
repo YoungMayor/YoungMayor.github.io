@@ -1,16 +1,10 @@
 <h1 align="center">Hey there, I'm Meyoron Aghogho 👋</h1>
 
-###
-
 <br clear="both">
 
 <p align="center">I'm a software engineer with expertise in the development and management of web and mobile applications.<br><br>I build things that work excellently, scale perfectly, and even look good 😎.</p>
 
-###
-
 <h3 align="center">Languages</h3>
-
-###
 
 <br clear="both">
 
@@ -32,8 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
 </div>
 
-###
-
 <br clear="both">
 
 <div align="center">
@@ -54,11 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
 </div>
 
-###
-
 <h3 align="center">Frameworks & Libraries</h3>
-
-###
 
 <br clear="both">
 
@@ -79,8 +67,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
 </div>
-
-###
 
 <br clear="both">
 
@@ -110,18 +96,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
 
-###
-
-<div align="left">
-</div>
-
-###
-
 <br clear="both">
 
 <h3 align="center">Cloud, Hosting & DB</h3>
-
-###
 
 <br clear="both">
 
@@ -157,13 +134,9 @@
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo"  />
 </div>
 
-###
-
 <br clear="both">
 
 <h3 align="center">Tools & DevOps</h3>
-
-###
 
 <br clear="both">
 
@@ -203,16 +176,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
-###
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=YoungMayor&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=YoungMayor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=YoungMayor&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoungMayor&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
-
-###
 
 <div align="center" style="width: 100%">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@youngmayor/0">
@@ -225,8 +194,6 @@
     <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@youngmayor/2" alt="Medium post 3"  />
   </a>
 </div>
-
-###
 
 <br clear="both">
 
@@ -250,5 +217,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
